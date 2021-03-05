@@ -1,0 +1,123 @@
+
+
+
+#contenedor {
+    background-color: #ffffff;
+    height: 2200px;
+}
+
+/* .altura_arr_aba {
+    padding: 100px 0;
+} */
+
+
+#cabecera {
+    background-color: #191919;
+    height: 150px;
+}
+
+#cab_1{
+    background-color: #b24662;
+}
+
+#cab_2{
+    background-color: #31416e;
+}
+
+
+#home {
+    background-color: #d7b633;
+    height: 550px;
+}
+#cont_1 {
+    background-color: #e37751;
+}
+#cont_2 {
+    background-color: #b7b3ae;
+}
+
+
+#amigurumis {
+    background-color: #d7b633;
+    height: 550px;
+
+}
+
+
+
+#card_ami_1 {
+
+background-color: #918b8b;
+
+}
+
+
+#card_ami_2 {
+
+background-color: #000;
+
+
+}
+#card_ami_3 {
+
+background-color: #b82020;
+
+}
+#card_ami_4 {
+
+background-color: #809e14;
+
+}
+#card_ami_5 {
+
+background-color: #918b8b;
+
+}
+#card_ami_6 {
+
+background-color: #000;
+
+}
+
+
+
+#banner{
+    background-color: #000;
+    height: 550px;
+}
+
+#banner_1 {
+    background-color: #1dafaf;
+}
+#ropa_bebe{
+    background-color: violet;
+    height: 550px;
+}
+
+#card_rb_1 {
+    background-color: #ffff00;
+}
+#card_rb_2 {
+    background-color: #727206;
+}
+#card_rb_3 {
+    background-color: #33332c;
+}
+#card_rb_4 {
+    background-color: #2f0672;
+}
+#card_rb_5 {
+    background-color: #bbbb94;
+}
+#card_rb_6 {
+    background-color: #720621;
+}
+
+#pie{
+    background-color: #191919;
+    height: 200px;
+}
+
+#pie_interno {
+    background-color: #308a7e;
+}
